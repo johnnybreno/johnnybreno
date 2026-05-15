@@ -6,3 +6,7 @@ Olá, me chamo Johnny Breno. Sou desenvolvedor e atualmente estou cursando ciên
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C logo"  />
   <img width="12" />  
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="C logo"  />
+  <img width="12" />
