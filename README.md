@@ -3,10 +3,13 @@ Olá, me chamo Johnny Breno. Sou desenvolvedor e atualmente estou cursando ciên
 
 <h2 align="left">Tecnologias</h2>  
 
-<div align="left">
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C logo"  />
-  <img width="12" />  
-
+<img 
+    align="left"
+    tittle="C"  
+    width="30"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
+/>
 <img 
     align="left"
     tittle="Git"
