@@ -1,6 +1,6 @@
 <h2 align="left">Sobre mim</h2>  
 Olá, me chamo Johnny Breno!   
-Sou desenvolvedor e atualmente estou cursando ciência da computação na Universidade Estadual de Santa Cruz.
+Sou desenvolvedor backend e atualmente estou cursando ciência da computação na Universidade Estadual de Santa Cruz.
 
 <h2 align="left">Tecnologias</h2>  
 
